@@ -78,6 +78,11 @@ code, pre {
     height: 100%;
 } 
 
+.hidden {
+    visibility: hidden;
+    height: 0;
+}
+
 /* Showcase */
 .showcase {
     height: 400px;
